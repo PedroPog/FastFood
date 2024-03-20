@@ -7,3 +7,9 @@
     <li>Back-End - <strong>Em Progresso</strong></li>
     <li>Demo - <strong>Em Progresso</strong></li>
 </ul>
+<span>-------------------------------------------------------------------------</span>
+<h5>Ideias para melhorar</h5>
+<ul>
+    <li>Fazer comunicação com banco de dados</li>
+    <li>Desenvovimento de tela Admin</li>
+</ul>
